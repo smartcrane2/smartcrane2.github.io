@@ -1,3 +1,15 @@
+---
+layout: blog
+book: true
+background: purple
+background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/43335546.jpg
+title:  "2018年7月1日温旭宏鹤的学习笔记"
+date:   2017-06-20
+category: 书籍
+tags:
+- 英语
+- 学习笔记
+---
 
 ## 2018年7月1日，温旭宏鹤 的学习笔记如下：
 
