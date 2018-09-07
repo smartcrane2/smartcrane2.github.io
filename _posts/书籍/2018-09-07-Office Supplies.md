@@ -1,17 +1,17 @@
 ---
 layout: blog
 book: true
-background: purple
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/43335546.jpg
-title:  "2018年7月1日温旭宏鹤的学习笔记"
-date:   2017-06-20
-category: 书籍
+title:  "毛姆《寻欢作乐》（百读文库）liberxue一些所感所想和笔记书签"
 tags:
-- 英语
-- 学习笔记
+- 寻欢作乐
+- 毛姆
+- 百读文库
+background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/82431810.jpg
+date:   2017-06-27 23:43:54
+category: 书籍
 ---
 
-## 2018年7月1日，温旭宏鹤 的学习笔记如下：
+#### 2018年7月1日，温旭宏鹤 的学习笔记如下：
 
 1. 悬挂式吊架		：**hanging shelf**
 2. 名片 				：**name card**
