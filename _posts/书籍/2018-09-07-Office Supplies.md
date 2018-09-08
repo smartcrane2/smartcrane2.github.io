@@ -1,15 +1,13 @@
 ---
 layout: blog
-book: true
-istop: true
-title:  "毛姆《寻欢作乐》（百读文库）liberxue一些所感所想和笔记书签"
+note: true
+title:  "Office Supplies - 英语学习笔记"
 tags:
-- 寻欢作乐
-- 毛姆
-- 百读文库
-background-image: https://i.loli.net/2018/09/08/5b934fb553473.jpg
-date:   2018-06-27
-category: 旅游
+- Office Supplies
+- 英语笔记
+background-image: https://i.loli.net/2018/09/08/5b93d43e74310.jpg
+date:   2018-07-01 22:17
+category: 英语笔记
 ---
 
 #### 2018年7月1日，温旭宏鹤 的学习笔记如下：
