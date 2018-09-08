@@ -2,7 +2,8 @@
 layout: blog
 title: 关于 SmartCrane
 description: "关于 SmartCrane 博客角落自述"
-data: 2018-09-08
+data: 2018-09-08 14:15
+category: 个人简介
 tags: 
 - SmartCrane
 - 简述
@@ -20,7 +21,7 @@ redirect_from:
 
 博客图床目前使用 [Simple Free Image Hosting](https://sm.ms/), 将来考虑使用``七牛云``加速
 
-## 关于 SmartCrane 机灵鹤
+## SmartCrane 机灵鹤
  
 本科时候一个室友帮我取的
 
@@ -45,7 +46,7 @@ redirect_from:
  ``c# `` | ``c++`` | ``Python`` | ``Java`` |
  
 
- 目前主要从事 VR 内容开发,使用引擎为 Unity 3D, 常用语言  ``C#``
+ 目前主要从事 `VR` 内容开发,使用引擎为 `Unity 3D`, 常用语言  ``C#``
   
 ### 个人爱好
 
