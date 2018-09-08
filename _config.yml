@@ -29,7 +29,7 @@ links:
   - name:         标签
     url:          /tags
     external:     false
-  - name:         关于
+  - name:         关于我
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
