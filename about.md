@@ -2,7 +2,7 @@
 layout: blog
 title: 关于 SmartCrane
 description: "关于 SmartCrane 博客角落自述"
-data: 2018-09-08 14:15
+date: 2018-09-08 14:15
 category: 个人简介
 tags: 
 - SmartCrane
