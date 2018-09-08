@@ -14,14 +14,14 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         成长
-    url:          /learn
+  - name:         文章
+    url:          /article
     external:     false
   - name:         笔记
     url:          /note
     external:     false
   - name:         说说
-    url:          /book
+    url:          /talk
     external:     false
   - name:         归档
     url:          /archives
