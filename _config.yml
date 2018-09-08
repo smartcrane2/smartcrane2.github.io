@@ -19,7 +19,8 @@ links:
     external:     false
   - name:         笔记
     url:          /note
-    external:     false  - name:         归档
+    external:     false
+  - name:         归档
     url:          /archives
     external:     false
   - name:         标签
