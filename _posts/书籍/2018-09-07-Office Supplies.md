@@ -6,7 +6,7 @@ tags:
 - 寻欢作乐
 - 毛姆
 - 百读文库
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/82431810.jpg
+background-image: https://i.loli.net/2018/09/08/5b934fb553473.jpg
 date:   2018-06-27 23:43:54
 category: 旅游
 ---
