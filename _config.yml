@@ -1,35 +1,35 @@
-# ----------- CONFIGURABLE START -----------
-title:            "SmartCrane|GitHub blog"
-description:      "»úÁéº×¡¸½ÇÂä¡¹Ù©Ù©ÀíÏë¡¢Ì¸Ì¸ÈËÉú¡¢ÇÃÇÃ´úÂë¡£"
-url:              https://smartcrane2.github.io
+ï»¿# ----------- CONFIGURABLE START -----------
+title:            "æœºçµé¹¤|SmartCrane|GitHub blog"
+description:      "æ¬¢è¿æ¥åˆ° SmartCraneã€Œè§’è½ã€ä¾ƒä¾ƒç†æƒ³ã€è°ˆè°ˆäººç”Ÿã€æ•²æ•²ä»£ç ã€‚"
+url:              https://smartcrane2.github.io # åŸŸå
 signoff:          "SmartCrane" # Your name
 facebook_appid:   #SmartCrane
 google_analytics: UA-101222464-1
 share:            true 
-# ·ÖÒ³
+# åˆ†é¡µ
 paginate: 15
 paginate_path: "SmartCranepage:num"
 gems: [jekyll-paginate]
 links:
-  - name:         Ê×Ò³
+  - name:         é¦–é¡µ
     url:          /
     external:     false
-  - name:         ³É³¤
+  - name:         æˆé•¿
     url:          /learn
     external:     false
-  - name:         ±Ê¼Ç
+  - name:         ç¬”è®°
     url:          /note
     external:     false
-  - name:         ËµËµ
+
+  - name:         è¯´è¯´
     url:          /book
-    external:     false
-  - name:         ¹éµµ
+    external:     false  - name:         å½’æ¡£
     url:          /archives
     external:     false
-  - name:         ±êÇ©
+  - name:         æ ‡ç­¾
     url:          /tags
     external:     false
-  - name:         ¹ØÓÚ
+  - name:         å…³äº
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
