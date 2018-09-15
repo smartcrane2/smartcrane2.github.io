@@ -5,7 +5,8 @@ title:  "Unity 学习笔记——如何打开外部 exe 程序"
 tags:  
 - 灵感记录  
 - Unity 学习笔记  
-background: yellow  
+background: red  
+background-image: https://i.loli.net/2018/09/15/5b9d23e035119.jpg
 date:   2018-09-15 22:49   
 category: Unity 笔记
 ---
