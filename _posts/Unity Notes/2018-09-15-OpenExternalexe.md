@@ -5,7 +5,7 @@ title:  "Unity 学习笔记——如何打开外部 exe 程序"
 tags:  
 - 灵感记录  
 - Unity 学习笔记  
-background: black  
+background: yellow  
 date:   2018-09-15 22:49   
 category: Unity 笔记
 ---
@@ -39,4 +39,4 @@ public class example : MonoBehaviour
 
 ## 参考资料
 
-http://www.manew.com/blog-19044-735.html
+[http://www.manew.com/blog-19044-735.html](http://www.manew.com/blog-19044-735.html)
