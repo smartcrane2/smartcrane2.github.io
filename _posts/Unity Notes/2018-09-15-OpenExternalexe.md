@@ -6,7 +6,7 @@ tags:
 - 灵感记录  
 - Unity 学习笔记  
 background: yellow  
-background-image: https://i.loli.net/2018/09/15/5b9d23e035119.jpg
+background-image: https://i.loli.net/2018/09/16/5b9df0987211a.jpg
 date:   2018-09-15 22:49   
 category: Unity 笔记
 ---
@@ -40,4 +40,4 @@ public class example : MonoBehaviour
 
 ## 参考资料
 
-[http://www.manew.com/blog-19044-735.html](http://www.manew.com/blog-19044-735.html)
+【1】 http://www.manew.com/blog-19044-735.html
