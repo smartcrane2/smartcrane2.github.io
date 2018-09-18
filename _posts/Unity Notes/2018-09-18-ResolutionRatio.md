@@ -12,12 +12,12 @@ category: Unity 笔记
 
 >在unity完成一个自定义分辨率的游戏，打包成 PC 版本时，经常会遇到一个问题，就是打包好的程序运行时分辨率发生了重置，跟 unity 中编辑和运行的时候完全不一样。明明已经在build setting  中设定了默认分辨率为什么没有效果？本文将讲解如何解决打包时分辨率失效的问题。
 
-![image](https://cinema-suite.com/wp-content/uploads/2015/01/Custom-Full-Screen.jpg)
-
 ## 为什么分辨率会重置？
 当你用 `Unity` 构建一个新的游戏时，他会为你在 `Player Settings` 的公司名称下保存一个 `注册表键（windows 中）` 或 `preference file（ Mac 上）`。
 
 默认情况下，这是 `DefaultCompany`。在第一次打包时，Unity 会自动像注册表中注册打包信息，后续打包时，如果公司名称没有变的话，`注册表键` 或 `preference  file` 还包含之前显示设置和其他设置，不会覆盖当前你新构建的设置，也就是说下次打包即使重新设置分辨率也没用。
+
+![image](http://pf6qvqv35.bkt.clouddn.com/talk/20180918/20180907112244734.png)
 
 ## 如何解决
 ### 方法一：修改项目名称
