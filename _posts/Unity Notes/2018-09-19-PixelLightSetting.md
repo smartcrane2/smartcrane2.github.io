@@ -4,7 +4,7 @@ note: true
 title:  "Unity 学习笔记——点光源个数较多时部分光源失效的问题"  
 tags:  
 - Unity 学习笔记  
-background: grey  
+background: yellow  
 background-image: https://i.loli.net/2018/09/16/5b9df0987211a.jpg  
 date:   2018-09-19 15:20   
 category: Unity 笔记
