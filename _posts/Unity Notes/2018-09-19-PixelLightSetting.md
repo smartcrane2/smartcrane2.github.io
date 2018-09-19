@@ -6,7 +6,7 @@ tags:
 - Unity 学习笔记  
 background: yellow  
 background-image: https://i.loli.net/2018/09/16/5b9df0987211a.jpg  
-date:   2018-09-19 15:20   
+date:   2018-09-19 14:40   
 category: Unity 笔记
 ---
 
@@ -22,3 +22,6 @@ category: Unity 笔记
 * 在 `Rendering` 选项下找到 `Pixel Light Count`，这即是场景中渲染的点光源个数，其默认值是 4 ，将其改为自己想要的值即可。
 
 ![image](http://pf6qvqv35.bkt.clouddn.com/note/20180919/QualitySettings.png)
+
+## 参考资料
+【1】https://blog.csdn.net/tinyhum3d/article/details/17076469
