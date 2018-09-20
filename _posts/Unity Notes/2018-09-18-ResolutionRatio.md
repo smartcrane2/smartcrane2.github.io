@@ -4,6 +4,7 @@ note: true
 title:  "Unity 学习笔记——如何解决打包时候分辨率失效的问题"  
 tags:  
 - Unity 学习笔记  
+icon: note  
 background: orange  
 background-image: https://i.loli.net/2018/09/16/5b9df0987211a.jpg  
 date:   2018-09-18 22:50   

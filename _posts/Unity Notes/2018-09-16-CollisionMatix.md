@@ -4,6 +4,7 @@ note: true
 title:  "Unity 学习笔记——如何使碰撞仅对特定物体有效"  
 tags:  
 - Unity 学习笔记  
+icon: note  
 background: red  
 background-image: https://i.loli.net/2018/09/16/5b9df0987211a.jpg  
 date:   2018-09-16 16:50   

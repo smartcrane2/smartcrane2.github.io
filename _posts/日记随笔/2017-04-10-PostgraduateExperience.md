@@ -1,6 +1,7 @@
 ---
 layout: blog
 article: true
+icon: book  
 background: blue
 background-image: https://i.loli.net/2018/09/08/5b93d8ddb3557.gif
 title:  "我的考研之路"

@@ -1,6 +1,7 @@
 ---
 layout: blog
 talk: true
+icon: chat
 background: blue
 background-image: https://i.loli.net/2018/09/08/5b93ba24a34a8.png
 title:  "我的大学之图书馆随笔"
